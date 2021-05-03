@@ -1,0 +1,31 @@
+body {
+  background-image: url(download.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color : black;
+  font-family: cursive;
+}
+
+h1:hover{
+  color : #d2e603;
+
+}
+
+p {
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+}
+p:hover{
+  color : #eca3f5;
+}
+
+
+
+.shawarma {
+  background-color: white;
+  border-radius: 100%;
+}
